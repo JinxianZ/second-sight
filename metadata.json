@@ -1,0 +1,11 @@
+{
+  "name": "Second Sight",
+  "description": "AI eyes for blind and visually impaired users — instant voice-guided scene description, text reading, object finding, and continuous hazard monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
